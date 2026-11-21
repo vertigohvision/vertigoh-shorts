@@ -60,6 +60,8 @@ if is_url:
         meta = {k: j.get(k) for k in ("title", "description", "uploader", "upload_date", "duration",
                                        "view_count", "like_count", "comment_count", "webpage_url")}
         info.unlink()
+    elif (out / "meta.json").exists():              # re-run on an existing download: keep earlier metadata
+        meta = json.loads((out / "meta.json").read_text() or "{}")
 else:
     if not video.exists():
         video.symlink_to(pathlib.Path(a.src).resolve())
@@ -78,6 +80,7 @@ r = run(["ffmpeg", "-hide_banner", "-i", str(video), "-vf",
          f"scale=320:-2,select='gt(scene,{a.scene})',showinfo", "-an", "-f", "null", "-"])
 cuts = [float(m) for m in re.findall(r"pts_time:([\d.]+)", r.stderr)]
 cuts = [c for i, c in enumerate(cuts) if c > 0.15 and (i == 0 or c - cuts[i - 1] > 0.15)]
+cuts = [c for c in cuts if dur - c > 0.15]          # a "cut" in the last frames yields an empty, ungrabbable shot
 bounds = [0.0] + cuts + [dur]
 shots = [(bounds[i], bounds[i + 1]) for i in range(len(bounds) - 1)]
 lens = [e - s for s, e in shots]

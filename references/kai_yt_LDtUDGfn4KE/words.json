@@ -1,0 +1,38 @@
+[
+ {
+  "word": "Woo",
+  "start": 0.0,
+  "end": 0.38,
+  "prob": 0.03
+ },
+ {
+  "word": "-hoo!",
+  "start": 0.38,
+  "end": 0.62,
+  "prob": 0.692
+ },
+ {
+  "word": "Woo",
+  "start": 1.24,
+  "end": 1.4,
+  "prob": 0.793
+ },
+ {
+  "word": "-hoo!",
+  "start": 1.4,
+  "end": 1.96,
+  "prob": 0.892
+ },
+ {
+  "word": "Let's",
+  "start": 2.42,
+  "end": 2.8,
+  "prob": 0.967
+ },
+ {
+  "word": "go!",
+  "start": 2.8,
+  "end": 2.98,
+  "prob": 0.937
+ }
+]

@@ -1,0 +1,28 @@
+[00:00.00] This guy organized an $800,000 event,
+[00:03.06] but he's still too lazy to grab his own damn drink.
+[00:05.86] So Red Bull asked me to design a drone literally
+[00:07.68] to deliver fresh drinks to Ludwig
+[00:09.48] while he's hosting streamer games.
+[00:11.48] So I started with the most straightforward option,
+[00:13.70] dual locking the can to the top of the drone.
+[00:15.96] The issue is Ludwig is not the most graceful person
+[00:18.56] and the mount was too weak to fly far.
+[00:20.84] To make things easier for his ape brain
+[00:22.54] and to keep the can attached across an entire track field,
+[00:25.40] we needed a better solution.
+[00:27.10] So I had to relearn how to 3D model and print custom parts
+[00:30.60] that would safely carry and release the can.
+[00:33.24] But with our first prototype,
+[00:34.60] I realized that the condensation and Ludwig's ape hands
+[00:37.32] were causing the can to get stuck,
+[00:39.60] preventing a smooth delivery.
+[00:41.22] So I went back and modified the holder
+[00:43.16] so friction would be reduced to a minimum.
+[00:45.78] With no time left,
+[00:47.14] the moment of truth came when Ludwig asked
+[00:49.24] for his first can to be delivered.
+[00:51.40] And through the nerves, we managed to pull it off.
+[00:54.52] Every time Ludwig was parched,
+[00:55.90] my clinker could be there too successfully
+[00:57.96] and smoothly deliver him a drink.
+[01:00.44] That is how.

@@ -22,14 +22,20 @@ Performance check ~7 days after posting.
 
 ## Baseline (from Kai, 11/21)
 
-| Short | Format | Result |
-|---|---|---|
-| ICCwFRpPrk0 (YT) / DDsMDPgyzJJ (IG) | FPV split screen BTS | Top performer, both platforms |
-| wQsN3IJga6I | FPV split screen BTS | High |
-| L9LfkWkKeqE | Storytime | High (Kai likes it) |
-| EVGZjg0l6_s | Storytime/experiment, Ludwig drone BTS + creative fix | Good, and the target direction |
-| zfKBLxp6I_g | China trip recap | Flop |
-| L9RJX-rQ0_E | Process vs result, 2 cameras | Flop |
-| LDtUDGfn4KE | iPhone BTS vs final shot | Flop |
+YouTube numbers fetched with yt-dlp on Kai's Mac, 2026-11-21.
 
-*View counts and retention graphs: still needed from Kai.*
+| Short | Format | Result | Uploaded | YT views | YT likes | Like rate | Length |
+|---|---|---|---|---|---|---|---|
+| ICCwFRpPrk0 (YT) / DDsMDPgyzJJ (IG) | FPV split screen BTS | Top performer, both platforms | 2024-12-17 | 84,904,844 | 4,183,861 | 4.93% | 79.0s (IG cut) |
+| wQsN3IJga6I | FPV split screen BTS | High | 2023-12-26 | 10,669,844 | 458,010 | 4.29% | 45.4s |
+| L9LfkWkKeqE | Storytime | High (Kai likes it) | 2023-02-28 | 547,322 | 24,335 | 4.45% | 57.7s |
+| EVGZjg0l6_s | Storytime/experiment, Ludwig drone BTS + creative fix | Good, and the target direction | 2025-08-26 | 281,696 | 5,531 | 1.96% | 61.5s |
+| zfKBLxp6I_g | China trip recap | Flop | 2026-11-06 | 1,456 | 44 | 3.02% | 75.8s |
+| L9RJX-rQ0_E | Process vs result, 2 cameras | Flop | 2026-10-20 | 6,615 | 51 | 0.77% | 14.0s |
+| LDtUDGfn4KE | iPhone BTS vs final shot | Flop | 2026-10-15 | 3,527 | 42 | 1.19% | 13.2s |
+
+Breakdowns: `references/kai_yt_<id>/breakdown.md`. Diagnosis: `references/WINNERS_VS_FLOPS.md`.
+
+*Still needed from Kai (YouTube Studio): retention graphs, avg % viewed, viewed-vs-swiped-away %,
+and impressions. In particular, check for a channel-wide dip since October, because all 3 flops were
+posted 2026-10-15 → 11-06.*

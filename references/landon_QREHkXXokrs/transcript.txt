@@ -1,0 +1,29 @@
+[00:00.00] I gave my six-year-old his own computer,
+[00:01.66] and then I left for a week.
+[00:03.30] Which is a problem,
+[00:03.90] because technically he could access the entire internet.
+[00:07.46] So while I'm on the road,
+[00:08.30] I asked Theo to write the code
+[00:09.38] for this kid-friendly launcher that simplifies the UI.
+[00:12.56] It keeps him off the internet,
+[00:14.00] and instead on specific apps that fuel his creativity.
+[00:17.00] So Theo's just one of my Grok bots
+[00:18.36] that keeps me updated on the build, progress, and testing.
+[00:21.20] But he's not the only bot that I have running right now.
+[00:23.10] My wife and I,
+[00:23.68] we've been looking at moving somewhere rural for a while,
+[00:26.32] so Scout sends me a message
+[00:28.12] when she's found something with enough acreage,
+[00:30.60] lots of trees,
+[00:31.34] and somewhere close enough that we can actually fly to.
+[00:33.98] And Simon, he's in my books.
+[00:35.70] He looks at my spending,
+[00:36.66] he categorizes all my expenses.
+[00:38.68] Something that if you know me,
+[00:39.84] you know I'm really bad at staying on top of.
+[00:42.02] Which is kind of the theme here.
+[00:43.20] Like none of this needed me at my desk.
+[00:45.16] Like even when I'm not home,
+[00:46.26] the home stuff keeps moving.
+[00:47.90] So if you wanna try Grok bot out for yourself,
+[00:49.80] comment bot, and I'll send you a link.

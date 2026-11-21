@@ -22,3 +22,7 @@ Dependencies:
 - Linux: `apt install ffmpeg fonts-montserrat && pip install faster-whisper yt-dlp pillow`
 - macOS: `brew install ffmpeg yt-dlp && brew install --cask font-montserrat && pip3 install faster-whisper pillow`
   (YouTube downloads work from a Mac; cloud servers get blocked by YouTube's bot check.)
+  Homebrew's Python (3.15) refuses global `pip install` (PEP 668) and has no `av` wheels yet, so use
+  a 3.13 venv: `brew install python@3.13 deno && python3.13 -m venv ~/.venvs/vertigoh &&
+  ~/.venvs/vertigoh/bin/pip install faster-whisper pillow numpy`, then run the scripts with
+  `~/.venvs/vertigoh/bin/python`.

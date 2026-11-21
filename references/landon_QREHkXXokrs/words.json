@@ -1,0 +1,1274 @@
+[
+ {
+  "word": "I",
+  "start": 0.0,
+  "end": 0.1,
+  "prob": 0.822
+ },
+ {
+  "word": "gave",
+  "start": 0.1,
+  "end": 0.2,
+  "prob": 0.924
+ },
+ {
+  "word": "my",
+  "start": 0.2,
+  "end": 0.34,
+  "prob": 0.879
+ },
+ {
+  "word": "six",
+  "start": 0.34,
+  "end": 0.56,
+  "prob": 0.85
+ },
+ {
+  "word": "-year",
+  "start": 0.56,
+  "end": 0.68,
+  "prob": 0.68
+ },
+ {
+  "word": "-old",
+  "start": 0.68,
+  "end": 0.8,
+  "prob": 0.946
+ },
+ {
+  "word": "his",
+  "start": 0.8,
+  "end": 0.92,
+  "prob": 0.975
+ },
+ {
+  "word": "own",
+  "start": 0.92,
+  "end": 1.06,
+  "prob": 0.999
+ },
+ {
+  "word": "computer,",
+  "start": 1.06,
+  "end": 1.42,
+  "prob": 0.999
+ },
+ {
+  "word": "and",
+  "start": 1.66,
+  "end": 1.74,
+  "prob": 0.987
+ },
+ {
+  "word": "then",
+  "start": 1.74,
+  "end": 1.84,
+  "prob": 0.992
+ },
+ {
+  "word": "I",
+  "start": 1.84,
+  "end": 1.94,
+  "prob": 0.987
+ },
+ {
+  "word": "left",
+  "start": 1.94,
+  "end": 2.12,
+  "prob": 0.999
+ },
+ {
+  "word": "for",
+  "start": 2.12,
+  "end": 2.44,
+  "prob": 0.997
+ },
+ {
+  "word": "a",
+  "start": 2.44,
+  "end": 2.78,
+  "prob": 0.892
+ },
+ {
+  "word": "week.",
+  "start": 2.78,
+  "end": 3.06,
+  "prob": 0.998
+ },
+ {
+  "word": "Which",
+  "start": 3.3,
+  "end": 3.38,
+  "prob": 0.948
+ },
+ {
+  "word": "is",
+  "start": 3.38,
+  "end": 3.52,
+  "prob": 0.948
+ },
+ {
+  "word": "a",
+  "start": 3.52,
+  "end": 3.6,
+  "prob": 0.963
+ },
+ {
+  "word": "problem,",
+  "start": 3.6,
+  "end": 3.82,
+  "prob": 0.999
+ },
+ {
+  "word": "because",
+  "start": 3.9,
+  "end": 4.0,
+  "prob": 0.382
+ },
+ {
+  "word": "technically",
+  "start": 4.0,
+  "end": 4.6,
+  "prob": 0.893
+ },
+ {
+  "word": "he",
+  "start": 4.6,
+  "end": 5.16,
+  "prob": 0.429
+ },
+ {
+  "word": "could",
+  "start": 5.16,
+  "end": 5.36,
+  "prob": 0.998
+ },
+ {
+  "word": "access",
+  "start": 5.36,
+  "end": 5.88,
+  "prob": 0.999
+ },
+ {
+  "word": "the",
+  "start": 5.88,
+  "end": 6.42,
+  "prob": 0.994
+ },
+ {
+  "word": "entire",
+  "start": 6.42,
+  "end": 6.76,
+  "prob": 0.998
+ },
+ {
+  "word": "internet.",
+  "start": 6.76,
+  "end": 7.04,
+  "prob": 0.845
+ },
+ {
+  "word": "So",
+  "start": 7.46,
+  "end": 7.52,
+  "prob": 0.962
+ },
+ {
+  "word": "while",
+  "start": 7.52,
+  "end": 7.72,
+  "prob": 0.741
+ },
+ {
+  "word": "I'm",
+  "start": 7.72,
+  "end": 7.8,
+  "prob": 0.993
+ },
+ {
+  "word": "on",
+  "start": 7.8,
+  "end": 7.92,
+  "prob": 0.998
+ },
+ {
+  "word": "the",
+  "start": 7.92,
+  "end": 7.98,
+  "prob": 0.999
+ },
+ {
+  "word": "road,",
+  "start": 7.98,
+  "end": 8.14,
+  "prob": 0.999
+ },
+ {
+  "word": "I",
+  "start": 8.3,
+  "end": 8.32,
+  "prob": 0.999
+ },
+ {
+  "word": "asked",
+  "start": 8.32,
+  "end": 8.54,
+  "prob": 0.918
+ },
+ {
+  "word": "Theo",
+  "start": 8.54,
+  "end": 8.8,
+  "prob": 0.938
+ },
+ {
+  "word": "to",
+  "start": 8.8,
+  "end": 8.98,
+  "prob": 0.994
+ },
+ {
+  "word": "write",
+  "start": 8.98,
+  "end": 9.1,
+  "prob": 0.998
+ },
+ {
+  "word": "the",
+  "start": 9.1,
+  "end": 9.22,
+  "prob": 0.988
+ },
+ {
+  "word": "code",
+  "start": 9.22,
+  "end": 9.38,
+  "prob": 0.998
+ },
+ {
+  "word": "for",
+  "start": 9.38,
+  "end": 9.56,
+  "prob": 0.997
+ },
+ {
+  "word": "this",
+  "start": 9.56,
+  "end": 9.72,
+  "prob": 0.991
+ },
+ {
+  "word": "kid",
+  "start": 9.72,
+  "end": 10.02,
+  "prob": 0.991
+ },
+ {
+  "word": "-friendly",
+  "start": 10.02,
+  "end": 10.44,
+  "prob": 0.947
+ },
+ {
+  "word": "launcher",
+  "start": 10.44,
+  "end": 10.94,
+  "prob": 0.993
+ },
+ {
+  "word": "that",
+  "start": 10.94,
+  "end": 11.28,
+  "prob": 0.978
+ },
+ {
+  "word": "simplifies",
+  "start": 11.28,
+  "end": 11.82,
+  "prob": 0.998
+ },
+ {
+  "word": "the",
+  "start": 11.82,
+  "end": 11.98,
+  "prob": 0.999
+ },
+ {
+  "word": "UI.",
+  "start": 11.98,
+  "end": 12.26,
+  "prob": 0.992
+ },
+ {
+  "word": "It",
+  "start": 12.56,
+  "end": 12.62,
+  "prob": 0.995
+ },
+ {
+  "word": "keeps",
+  "start": 12.62,
+  "end": 12.78,
+  "prob": 0.998
+ },
+ {
+  "word": "him",
+  "start": 12.78,
+  "end": 12.94,
+  "prob": 0.984
+ },
+ {
+  "word": "off",
+  "start": 12.94,
+  "end": 13.16,
+  "prob": 0.998
+ },
+ {
+  "word": "the",
+  "start": 13.16,
+  "end": 13.5,
+  "prob": 0.997
+ },
+ {
+  "word": "internet,",
+  "start": 13.5,
+  "end": 13.78,
+  "prob": 0.923
+ },
+ {
+  "word": "and",
+  "start": 14.0,
+  "end": 14.12,
+  "prob": 0.992
+ },
+ {
+  "word": "instead",
+  "start": 14.12,
+  "end": 14.46,
+  "prob": 0.981
+ },
+ {
+  "word": "on",
+  "start": 14.46,
+  "end": 14.86,
+  "prob": 0.715
+ },
+ {
+  "word": "specific",
+  "start": 14.86,
+  "end": 15.22,
+  "prob": 0.998
+ },
+ {
+  "word": "apps",
+  "start": 15.22,
+  "end": 15.58,
+  "prob": 0.997
+ },
+ {
+  "word": "that",
+  "start": 15.58,
+  "end": 15.82,
+  "prob": 0.992
+ },
+ {
+  "word": "fuel",
+  "start": 15.82,
+  "end": 16.02,
+  "prob": 0.964
+ },
+ {
+  "word": "his",
+  "start": 16.02,
+  "end": 16.22,
+  "prob": 0.998
+ },
+ {
+  "word": "creativity.",
+  "start": 16.22,
+  "end": 16.64,
+  "prob": 1.0
+ },
+ {
+  "word": "So",
+  "start": 17.0,
+  "end": 17.1,
+  "prob": 0.995
+ },
+ {
+  "word": "Theo's",
+  "start": 17.1,
+  "end": 17.36,
+  "prob": 0.89
+ },
+ {
+  "word": "just",
+  "start": 17.36,
+  "end": 17.48,
+  "prob": 0.993
+ },
+ {
+  "word": "one",
+  "start": 17.48,
+  "end": 17.7,
+  "prob": 0.998
+ },
+ {
+  "word": "of",
+  "start": 17.7,
+  "end": 17.82,
+  "prob": 0.999
+ },
+ {
+  "word": "my",
+  "start": 17.82,
+  "end": 17.96,
+  "prob": 0.998
+ },
+ {
+  "word": "Grok",
+  "start": 17.96,
+  "end": 18.22,
+  "prob": 0.589
+ },
+ {
+  "word": "bots",
+  "start": 18.22,
+  "end": 18.36,
+  "prob": 0.186
+ },
+ {
+  "word": "that",
+  "start": 18.36,
+  "end": 18.62,
+  "prob": 0.992
+ },
+ {
+  "word": "keeps",
+  "start": 18.62,
+  "end": 18.76,
+  "prob": 0.996
+ },
+ {
+  "word": "me",
+  "start": 18.76,
+  "end": 18.96,
+  "prob": 0.997
+ },
+ {
+  "word": "updated",
+  "start": 18.96,
+  "end": 19.3,
+  "prob": 0.998
+ },
+ {
+  "word": "on",
+  "start": 19.3,
+  "end": 19.58,
+  "prob": 0.998
+ },
+ {
+  "word": "the",
+  "start": 19.58,
+  "end": 19.72,
+  "prob": 0.994
+ },
+ {
+  "word": "build,",
+  "start": 19.72,
+  "end": 19.9,
+  "prob": 0.919
+ },
+ {
+  "word": "progress,",
+  "start": 19.94,
+  "end": 20.34,
+  "prob": 0.996
+ },
+ {
+  "word": "and",
+  "start": 20.48,
+  "end": 20.62,
+  "prob": 0.999
+ },
+ {
+  "word": "testing.",
+  "start": 20.62,
+  "end": 20.98,
+  "prob": 0.998
+ },
+ {
+  "word": "But",
+  "start": 21.2,
+  "end": 21.32,
+  "prob": 0.959
+ },
+ {
+  "word": "he's",
+  "start": 21.32,
+  "end": 21.4,
+  "prob": 0.997
+ },
+ {
+  "word": "not",
+  "start": 21.4,
+  "end": 21.5,
+  "prob": 0.998
+ },
+ {
+  "word": "the",
+  "start": 21.5,
+  "end": 21.58,
+  "prob": 0.998
+ },
+ {
+  "word": "only",
+  "start": 21.58,
+  "end": 21.76,
+  "prob": 0.999
+ },
+ {
+  "word": "bot",
+  "start": 21.76,
+  "end": 21.92,
+  "prob": 0.993
+ },
+ {
+  "word": "that",
+  "start": 21.92,
+  "end": 22.06,
+  "prob": 0.966
+ },
+ {
+  "word": "I",
+  "start": 22.06,
+  "end": 22.2,
+  "prob": 0.999
+ },
+ {
+  "word": "have",
+  "start": 22.2,
+  "end": 22.26,
+  "prob": 0.983
+ },
+ {
+  "word": "running",
+  "start": 22.26,
+  "end": 22.46,
+  "prob": 0.999
+ },
+ {
+  "word": "right",
+  "start": 22.46,
+  "end": 22.7,
+  "prob": 0.996
+ },
+ {
+  "word": "now.",
+  "start": 22.7,
+  "end": 22.9,
+  "prob": 0.999
+ },
+ {
+  "word": "My",
+  "start": 23.1,
+  "end": 23.22,
+  "prob": 0.99
+ },
+ {
+  "word": "wife",
+  "start": 23.22,
+  "end": 23.4,
+  "prob": 1.0
+ },
+ {
+  "word": "and",
+  "start": 23.4,
+  "end": 23.52,
+  "prob": 0.998
+ },
+ {
+  "word": "I,",
+  "start": 23.52,
+  "end": 23.68,
+  "prob": 0.998
+ },
+ {
+  "word": "we've",
+  "start": 23.68,
+  "end": 23.86,
+  "prob": 0.996
+ },
+ {
+  "word": "been",
+  "start": 23.86,
+  "end": 23.94,
+  "prob": 0.994
+ },
+ {
+  "word": "looking",
+  "start": 23.94,
+  "end": 24.14,
+  "prob": 0.998
+ },
+ {
+  "word": "at",
+  "start": 24.14,
+  "end": 24.38,
+  "prob": 0.997
+ },
+ {
+  "word": "moving",
+  "start": 24.38,
+  "end": 24.56,
+  "prob": 0.942
+ },
+ {
+  "word": "somewhere",
+  "start": 24.56,
+  "end": 25.08,
+  "prob": 0.978
+ },
+ {
+  "word": "rural",
+  "start": 25.08,
+  "end": 25.48,
+  "prob": 0.618
+ },
+ {
+  "word": "for",
+  "start": 25.48,
+  "end": 25.82,
+  "prob": 0.982
+ },
+ {
+  "word": "a",
+  "start": 25.82,
+  "end": 25.92,
+  "prob": 0.868
+ },
+ {
+  "word": "while,",
+  "start": 25.92,
+  "end": 26.16,
+  "prob": 0.999
+ },
+ {
+  "word": "so",
+  "start": 26.32,
+  "end": 26.64,
+  "prob": 0.994
+ },
+ {
+  "word": "Scout",
+  "start": 26.64,
+  "end": 27.06,
+  "prob": 0.906
+ },
+ {
+  "word": "sends",
+  "start": 27.06,
+  "end": 27.52,
+  "prob": 0.996
+ },
+ {
+  "word": "me",
+  "start": 27.52,
+  "end": 27.76,
+  "prob": 0.999
+ },
+ {
+  "word": "a",
+  "start": 27.76,
+  "end": 27.88,
+  "prob": 0.998
+ },
+ {
+  "word": "message",
+  "start": 27.88,
+  "end": 28.12,
+  "prob": 0.999
+ },
+ {
+  "word": "when",
+  "start": 28.12,
+  "end": 28.34,
+  "prob": 0.756
+ },
+ {
+  "word": "she's",
+  "start": 28.34,
+  "end": 28.66,
+  "prob": 0.954
+ },
+ {
+  "word": "found",
+  "start": 28.66,
+  "end": 28.86,
+  "prob": 0.999
+ },
+ {
+  "word": "something",
+  "start": 28.86,
+  "end": 29.26,
+  "prob": 0.999
+ },
+ {
+  "word": "with",
+  "start": 29.26,
+  "end": 29.54,
+  "prob": 0.976
+ },
+ {
+  "word": "enough",
+  "start": 29.54,
+  "end": 29.84,
+  "prob": 0.988
+ },
+ {
+  "word": "acreage,",
+  "start": 29.84,
+  "end": 30.4,
+  "prob": 0.997
+ },
+ {
+  "word": "lots",
+  "start": 30.6,
+  "end": 30.64,
+  "prob": 0.988
+ },
+ {
+  "word": "of",
+  "start": 30.64,
+  "end": 30.8,
+  "prob": 1.0
+ },
+ {
+  "word": "trees,",
+  "start": 30.8,
+  "end": 31.1,
+  "prob": 0.999
+ },
+ {
+  "word": "and",
+  "start": 31.34,
+  "end": 31.56,
+  "prob": 0.994
+ },
+ {
+  "word": "somewhere",
+  "start": 31.56,
+  "end": 31.92,
+  "prob": 0.947
+ },
+ {
+  "word": "close",
+  "start": 31.92,
+  "end": 32.22,
+  "prob": 1.0
+ },
+ {
+  "word": "enough",
+  "start": 32.22,
+  "end": 32.48,
+  "prob": 0.997
+ },
+ {
+  "word": "that",
+  "start": 32.48,
+  "end": 32.62,
+  "prob": 0.729
+ },
+ {
+  "word": "we",
+  "start": 32.62,
+  "end": 32.7,
+  "prob": 0.999
+ },
+ {
+  "word": "can",
+  "start": 32.7,
+  "end": 32.78,
+  "prob": 0.996
+ },
+ {
+  "word": "actually",
+  "start": 32.78,
+  "end": 33.14,
+  "prob": 0.99
+ },
+ {
+  "word": "fly",
+  "start": 33.14,
+  "end": 33.46,
+  "prob": 0.999
+ },
+ {
+  "word": "to.",
+  "start": 33.46,
+  "end": 33.7,
+  "prob": 0.985
+ },
+ {
+  "word": "And",
+  "start": 33.98,
+  "end": 34.04,
+  "prob": 0.954
+ },
+ {
+  "word": "Simon,",
+  "start": 34.04,
+  "end": 34.4,
+  "prob": 0.988
+ },
+ {
+  "word": "he's",
+  "start": 34.6,
+  "end": 34.82,
+  "prob": 0.997
+ },
+ {
+  "word": "in",
+  "start": 34.82,
+  "end": 35.02,
+  "prob": 0.998
+ },
+ {
+  "word": "my",
+  "start": 35.02,
+  "end": 35.16,
+  "prob": 0.999
+ },
+ {
+  "word": "books.",
+  "start": 35.16,
+  "end": 35.42,
+  "prob": 0.997
+ },
+ {
+  "word": "He",
+  "start": 35.7,
+  "end": 35.76,
+  "prob": 0.996
+ },
+ {
+  "word": "looks",
+  "start": 35.76,
+  "end": 35.86,
+  "prob": 0.992
+ },
+ {
+  "word": "at",
+  "start": 35.86,
+  "end": 35.96,
+  "prob": 0.992
+ },
+ {
+  "word": "my",
+  "start": 35.96,
+  "end": 36.06,
+  "prob": 0.991
+ },
+ {
+  "word": "spending,",
+  "start": 36.06,
+  "end": 36.44,
+  "prob": 0.999
+ },
+ {
+  "word": "he",
+  "start": 36.66,
+  "end": 36.8,
+  "prob": 0.996
+ },
+ {
+  "word": "categorizes",
+  "start": 36.8,
+  "end": 37.4,
+  "prob": 0.989
+ },
+ {
+  "word": "all",
+  "start": 37.4,
+  "end": 37.58,
+  "prob": 0.967
+ },
+ {
+  "word": "my",
+  "start": 37.58,
+  "end": 37.72,
+  "prob": 0.982
+ },
+ {
+  "word": "expenses.",
+  "start": 37.72,
+  "end": 38.18,
+  "prob": 0.999
+ },
+ {
+  "word": "Something",
+  "start": 38.68,
+  "end": 38.68,
+  "prob": 0.941
+ },
+ {
+  "word": "that",
+  "start": 38.68,
+  "end": 38.96,
+  "prob": 0.991
+ },
+ {
+  "word": "if",
+  "start": 38.96,
+  "end": 39.24,
+  "prob": 0.391
+ },
+ {
+  "word": "you",
+  "start": 39.24,
+  "end": 39.34,
+  "prob": 0.996
+ },
+ {
+  "word": "know",
+  "start": 39.34,
+  "end": 39.48,
+  "prob": 0.999
+ },
+ {
+  "word": "me,",
+  "start": 39.48,
+  "end": 39.72,
+  "prob": 0.997
+ },
+ {
+  "word": "you",
+  "start": 39.84,
+  "end": 39.92,
+  "prob": 0.946
+ },
+ {
+  "word": "know",
+  "start": 39.92,
+  "end": 40.02,
+  "prob": 0.999
+ },
+ {
+  "word": "I'm",
+  "start": 40.02,
+  "end": 40.18,
+  "prob": 0.912
+ },
+ {
+  "word": "really",
+  "start": 40.18,
+  "end": 40.44,
+  "prob": 0.998
+ },
+ {
+  "word": "bad",
+  "start": 40.44,
+  "end": 40.72,
+  "prob": 0.998
+ },
+ {
+  "word": "at",
+  "start": 40.72,
+  "end": 40.92,
+  "prob": 0.996
+ },
+ {
+  "word": "staying",
+  "start": 40.92,
+  "end": 41.28,
+  "prob": 0.945
+ },
+ {
+  "word": "on",
+  "start": 41.28,
+  "end": 41.44,
+  "prob": 0.998
+ },
+ {
+  "word": "top",
+  "start": 41.44,
+  "end": 41.62,
+  "prob": 0.998
+ },
+ {
+  "word": "of.",
+  "start": 41.62,
+  "end": 41.9,
+  "prob": 0.994
+ },
+ {
+  "word": "Which",
+  "start": 42.02,
+  "end": 42.08,
+  "prob": 0.878
+ },
+ {
+  "word": "is",
+  "start": 42.08,
+  "end": 42.18,
+  "prob": 0.995
+ },
+ {
+  "word": "kind",
+  "start": 42.18,
+  "end": 42.3,
+  "prob": 0.941
+ },
+ {
+  "word": "of",
+  "start": 42.3,
+  "end": 42.42,
+  "prob": 0.998
+ },
+ {
+  "word": "the",
+  "start": 42.42,
+  "end": 42.52,
+  "prob": 0.996
+ },
+ {
+  "word": "theme",
+  "start": 42.52,
+  "end": 42.74,
+  "prob": 0.996
+ },
+ {
+  "word": "here.",
+  "start": 42.74,
+  "end": 42.96,
+  "prob": 0.994
+ },
+ {
+  "word": "Like",
+  "start": 43.2,
+  "end": 43.24,
+  "prob": 0.88
+ },
+ {
+  "word": "none",
+  "start": 43.24,
+  "end": 43.38,
+  "prob": 0.582
+ },
+ {
+  "word": "of",
+  "start": 43.38,
+  "end": 43.48,
+  "prob": 0.998
+ },
+ {
+  "word": "this",
+  "start": 43.48,
+  "end": 43.6,
+  "prob": 0.996
+ },
+ {
+  "word": "needed",
+  "start": 43.6,
+  "end": 43.84,
+  "prob": 0.994
+ },
+ {
+  "word": "me",
+  "start": 43.84,
+  "end": 44.16,
+  "prob": 0.998
+ },
+ {
+  "word": "at",
+  "start": 44.16,
+  "end": 44.4,
+  "prob": 0.996
+ },
+ {
+  "word": "my",
+  "start": 44.4,
+  "end": 44.56,
+  "prob": 0.999
+ },
+ {
+  "word": "desk.",
+  "start": 44.56,
+  "end": 44.9,
+  "prob": 0.999
+ },
+ {
+  "word": "Like",
+  "start": 45.16,
+  "end": 45.22,
+  "prob": 0.912
+ },
+ {
+  "word": "even",
+  "start": 45.22,
+  "end": 45.32,
+  "prob": 0.888
+ },
+ {
+  "word": "when",
+  "start": 45.32,
+  "end": 45.44,
+  "prob": 0.997
+ },
+ {
+  "word": "I'm",
+  "start": 45.44,
+  "end": 45.56,
+  "prob": 0.997
+ },
+ {
+  "word": "not",
+  "start": 45.56,
+  "end": 45.7,
+  "prob": 0.998
+ },
+ {
+  "word": "home,",
+  "start": 45.7,
+  "end": 46.0,
+  "prob": 0.964
+ },
+ {
+  "word": "the",
+  "start": 46.26,
+  "end": 46.36,
+  "prob": 0.993
+ },
+ {
+  "word": "home",
+  "start": 46.36,
+  "end": 46.46,
+  "prob": 0.978
+ },
+ {
+  "word": "stuff",
+  "start": 46.46,
+  "end": 46.72,
+  "prob": 0.997
+ },
+ {
+  "word": "keeps",
+  "start": 46.72,
+  "end": 47.24,
+  "prob": 0.96
+ },
+ {
+  "word": "moving.",
+  "start": 47.24,
+  "end": 47.54,
+  "prob": 0.998
+ },
+ {
+  "word": "So",
+  "start": 47.9,
+  "end": 48.04,
+  "prob": 0.984
+ },
+ {
+  "word": "if",
+  "start": 48.04,
+  "end": 48.12,
+  "prob": 0.906
+ },
+ {
+  "word": "you",
+  "start": 48.12,
+  "end": 48.18,
+  "prob": 0.998
+ },
+ {
+  "word": "wanna",
+  "start": 48.18,
+  "end": 48.26,
+  "prob": 0.345
+ },
+ {
+  "word": "try",
+  "start": 48.26,
+  "end": 48.5,
+  "prob": 0.983
+ },
+ {
+  "word": "Grok",
+  "start": 48.5,
+  "end": 48.8,
+  "prob": 0.693
+ },
+ {
+  "word": "bot",
+  "start": 48.8,
+  "end": 48.88,
+  "prob": 0.014
+ },
+ {
+  "word": "out",
+  "start": 48.88,
+  "end": 49.06,
+  "prob": 0.979
+ },
+ {
+  "word": "for",
+  "start": 49.06,
+  "end": 49.2,
+  "prob": 0.995
+ },
+ {
+  "word": "yourself,",
+  "start": 49.2,
+  "end": 49.52,
+  "prob": 0.999
+ },
+ {
+  "word": "comment",
+  "start": 49.8,
+  "end": 50.04,
+  "prob": 0.992
+ },
+ {
+  "word": "bot,",
+  "start": 50.04,
+  "end": 50.32,
+  "prob": 0.954
+ },
+ {
+  "word": "and",
+  "start": 50.64,
+  "end": 50.72,
+  "prob": 0.937
+ },
+ {
+  "word": "I'll",
+  "start": 50.72,
+  "end": 50.82,
+  "prob": 0.997
+ },
+ {
+  "word": "send",
+  "start": 50.82,
+  "end": 50.96,
+  "prob": 0.998
+ },
+ {
+  "word": "you",
+  "start": 50.96,
+  "end": 51.1,
+  "prob": 0.938
+ },
+ {
+  "word": "a",
+  "start": 51.1,
+  "end": 51.18,
+  "prob": 0.996
+ },
+ {
+  "word": "link.",
+  "start": 51.18,
+  "end": 51.3,
+  "prob": 0.996
+ }
+]
