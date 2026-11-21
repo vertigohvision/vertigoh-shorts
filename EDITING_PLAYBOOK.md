@@ -6,7 +6,7 @@
 > **Confidence tags:** `[RULE]` confirmed by Kai or by performance data · `[HYPOTHESIS]` our best
 > guess, to be tested · `[RETIRED]` tried and dropped (kept so we don't repeat it)
 >
-> Version: v0.1 — 2026-11-21 (setup; written before any footage or references were reviewed)
+> Version: v0.3 — 2026-11-21 (3 references reviewed: Kai #1, Adrian Per, Ludwig)
 
 ---
 
@@ -56,6 +56,11 @@ Default caption baseline: y≈1250. `[RULE · platform UI]`
   commas/ellipses, placed on the split seam; reads like overheard dialogue. Sound-effect labels
   in asterisks (*Crew clapping*). Keep this as the split-screen caption style; A/B it against
   Montserrat. `[HYPOTHESIS · ref kai_DDsMDPgyzJJ]`
+- **Mode 3, two-line emphasis:** 2–5 words, with the keyword larger on line 2. A middle ground
+  for stream, screen and BTS clips. `[HYPOTHESIS · ref ludwig]`
+- **Emphasis layer:** small subtitles plus ONE giant keyword per beat in a single brand colour,
+  animated in (blur or scale), sometimes placed behind the subject. Kai needs a brand accent
+  colour; the teal from the #1 reel is a candidate. `[HYPOTHESIS · ref omgadrian]`
 - Fix Whisper's errors on names and gear before rendering (FPV, Ludwig, DJI, specific
   products). Keep a word list in §9.
 
@@ -66,7 +71,12 @@ Default caption baseline: y≈1250. `[RULE · platform UI]`
   top performers, references not yet reviewed]`
 - The first spoken line states a stake, a problem or a promise, not context ("I had 10 seconds
   to…", not "So last week I went to…"). `[HYPOTHESIS]`
-- No logo, no intro, no slow fade-in. `[HYPOTHESIS]`
+- **Speech or text starts within 0.3s of frame 1.** No logo, no intro, no slow fade-in.
+  `[RULE · 3/3 refs agree: Kai #1 0.00s, Adrian 0.11s, Ludwig 0.00s]`
+- Open on the **viewer's goal or a question**, then the **promise**, then an **open loop**
+  ("and the crazy part?…"). That's up to 3 hooks in the first 10s. `[HYPOTHESIS · ref omgadrian]`
+- **"Everything is X… except one"** is a reusable hook-and-reveal shape for experiments and tool
+  tests. `[HYPOTHESIS · ref ludwig]`
 - FPV split screen: open with a **countdown or "action" moment** ("3, 2, 1, ACTION!"). It builds
   anticipation in under 2s. `[HYPOTHESIS · ref kai_DDsMDPgyzJJ]`
 - Show the **live person doing it** (the BTS half of the split) by 3s at the latest. Test showing
@@ -83,6 +93,11 @@ Default caption baseline: y≈1250. `[RULE · platform UI]`
   4. Twist or obstacle.
   5. Payoff: the shot or result.
   6. Loop or CTA. `[HYPOTHESIS]`
+- **Show every noun.** When the script lists things, cut to a visual of each one.
+  `[HYPOTHESIS · ref omgadrian: 24 shots / 66s, avg 2.75s]`
+- In talking heads, a **camera move or punch-in can stand in for a cut**. `[HYPOTHESIS · ref omgadrian]`
+- **Split layout grammar: action/screen on top, face below, captions on the seam.**
+  `[HYPOTHESIS · Kai #1 + ludwig agree]`
 - Re-hook every 5–8s: a new visual, a question or a reveal. Nothing static for more than about
   2.5s. `[HYPOTHESIS · Adrian Per reference]`
 - Cut every breath, filler word and false start, but keep a natural rhythm. Don't jump-cut so
@@ -113,13 +128,17 @@ Default caption baseline: y≈1250. `[RULE · platform UI]`
 - **Ludwig (@ludwig).** Story hooks and vocal hooks, how clips are structured, audio,
   captions. Also a model for streams that are planned to produce shorts.
 
-*(Detailed breakdowns go here once the reference files have been reviewed frame by frame.)*
+Full breakdowns are in `references/<name>/breakdown.md`. Done: `kai_DDsMDPgyzJJ`,
+`omgadrian_DTF8yLpEceI`, `ludwig_DfWRz_Cvo8R`. Still to do: Landon and Kai's YouTube shorts.
 
 ## 8. CTA & long-form funnel
 
 - Keep CTAs soft and in voice; never a generic "follow for more". Tie them to a series or a
   promise ("part 2 of the build is on my channel"). `[HYPOTHESIS]`
 - Where possible, end on a loop so the last frame leads back into the first. `[HYPOTHESIS]`
+- **End within 2–3s of the payoff.** No outro. `[HYPOTHESIS · ref ludwig, Kai #1]`
+- **Make the follow CTA visual** (a screen recording of the profile with the cursor on Follow),
+  paired with a promise of what's next. `[HYPOTHESIS · ref omgadrian]`
 
 ## 9. Glossary / proper nouns (for caption correction)
 
@@ -132,6 +151,10 @@ FPV · Ludwig · Kai Vertigoh · Audiio · DJI
 ---
 
 ## Change log
+
+- **v0.3 (2026-11-21):** Adrian + Ludwig breakdowns. Promoted "speech by 0.3s" to RULE (3/3 refs).
+  Added: question→promise→loop hook, two-layer type system, show every noun, two-line emphasis captions,
+  end ≤3s after the payoff, visual follow CTA.
 
 - **v0.2 (2026-11-21):** Added the watch-video skill. Rules from the first breakdown (Kai's #1 FPV split
   screen): countdown hook, split screen by 3s, change the visual every ≤10s, keep human moments, split-screen caption style.
