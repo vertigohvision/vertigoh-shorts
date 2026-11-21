@@ -30,7 +30,7 @@
 | Resolution | 1080×1920 | `[RULE · Kai]` |
 | Frame rate | 30fps default; 24fps for cinematic-only pieces | `[RULE · Kai]` |
 | Codec | H.264 High, CRF 17, yuv420p, faststart | default |
-| Audio | AAC 256k / 48kHz, loudness −14 LUFS, true peak −1 dB | platform norm |
+| Audio | AAC 256k / 48kHz, loudness −14 LUFS, true peak −1 dB | platform norm (the #1 short shipped at −16.3) |
 | Font | Montserrat SemiBold (Medium for long chunks) | `[RULE · Kai]` |
 | Music | Audiio.com library only | `[RULE · Kai]` |
 
@@ -52,6 +52,10 @@ Default caption baseline: y≈1250. `[RULE · platform UI]`
   hooks only.
 - The hook line can be larger and placed higher (y≈700) as on-screen title text, separate from
   the spoken captions. `[HYPOTHESIS]`
+- FPV split-screen look (from Kai's #1): small italic, teal or white, 1–3 words with
+  commas/ellipses, placed on the split seam; reads like overheard dialogue. Sound-effect labels
+  in asterisks (*Crew clapping*). Keep this as the split-screen caption style; A/B it against
+  Montserrat. `[HYPOTHESIS · ref kai_DDsMDPgyzJJ]`
 - Fix Whisper's errors on names and gear before rendering (FPV, Ludwig, DJI, specific
   products). Keep a word list in §9.
 
@@ -63,6 +67,12 @@ Default caption baseline: y≈1250. `[RULE · platform UI]`
 - The first spoken line states a stake, a problem or a promise, not context ("I had 10 seconds
   to…", not "So last week I went to…"). `[HYPOTHESIS]`
 - No logo, no intro, no slow fade-in. `[HYPOTHESIS]`
+- FPV split screen: open with a **countdown or "action" moment** ("3, 2, 1, ACTION!"). It builds
+  anticipation in under 2s. `[HYPOTHESIS · ref kai_DDsMDPgyzJJ]`
+- Show the **live person doing it** (the BTS half of the split) by 3s at the latest. Test showing
+  it from frame 1. `[HYPOTHESIS · ref kai_DDsMDPgyzJJ]`
+- Put a **concrete stake** (a dollar figure, "1 take", a deadline) in on-screen text and/or the
+  post caption. `[HYPOTHESIS · ref kai_DDsMDPgyzJJ]`
 
 ## 5. Story structure & pacing
 
@@ -77,7 +87,12 @@ Default caption baseline: y≈1250. `[RULE · platform UI]`
   2.5s. `[HYPOTHESIS · Adrian Per reference]`
 - Cut every breath, filler word and false start, but keep a natural rhythm. Don't jump-cut so
   hard the speech sounds robotic. `[HYPOTHESIS]`
-- Target length 20–45s; go longer only if retention data supports it. `[HYPOTHESIS]`
+- Target length 20–45s; go longer only if retention data supports it. `[HYPOTHESIS]` Exception:
+  a one-take FPV holds for 79s because the tension never lets up. `[ref kai_DDsMDPgyzJJ]`
+- **Change the environment or visual every ≤10s**, even in one-takes with no cuts.
+  `[HYPOTHESIS · ref kai_DDsMDPgyzJJ]`
+- **Keep imperfect, human moments** ("blew out a lot of stuff, but it's okay"). They make it
+  authentic. `[HYPOTHESIS · ref kai_DDsMDPgyzJJ]`
 
 ## 6. Formats — what we know
 
@@ -117,6 +132,9 @@ FPV · Ludwig · Kai Vertigoh · Audiio · DJI
 ---
 
 ## Change log
+
+- **v0.2 (2026-11-21):** Added the watch-video skill. Rules from the first breakdown (Kai's #1 FPV split
+  screen): countdown hook, split screen by 3s, change the visual every ≤10s, keep human moments, split-screen caption style.
 
 - **v0.1 (2026-11-21):** Initial playbook from Kai's brief. Everything not stated directly by
   Kai is a hypothesis.

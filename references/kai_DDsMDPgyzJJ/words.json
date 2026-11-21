@@ -1,0 +1,476 @@
+[
+ {
+  "word": "Three",
+  "start": 0.0,
+  "end": 0.5,
+  "prob": 0.437
+ },
+ {
+  "word": "two",
+  "start": 0.5,
+  "end": 1.2,
+  "prob": 0.871
+ },
+ {
+  "word": "one",
+  "start": 1.2,
+  "end": 1.76,
+  "prob": 0.655
+ },
+ {
+  "word": "action",
+  "start": 1.76,
+  "end": 2.3,
+  "prob": 0.602
+ },
+ {
+  "word": "Nice",
+  "start": 4.3,
+  "end": 5.4,
+  "prob": 0.354
+ },
+ {
+  "word": "good",
+  "start": 5.4,
+  "end": 6.5,
+  "prob": 0.7
+ },
+ {
+  "word": "No,",
+  "start": 7.25,
+  "end": 7.8,
+  "prob": 0.233
+ },
+ {
+  "word": "don't",
+  "start": 7.8,
+  "end": 8.1,
+  "prob": 0.69
+ },
+ {
+  "word": "shadow",
+  "start": 8.1,
+  "end": 8.6,
+  "prob": 0.672
+ },
+ {
+  "word": "Cheers",
+  "start": 10.02,
+  "end": 11.12,
+  "prob": 0.682
+ },
+ {
+  "word": "Perfect",
+  "start": 12.22,
+  "end": 13.32,
+  "prob": 0.991
+ },
+ {
+  "word": "we",
+  "start": 13.32,
+  "end": 13.98,
+  "prob": 0.375
+ },
+ {
+  "word": "do",
+  "start": 15.9,
+  "end": 16.02,
+  "prob": 0.165
+ },
+ {
+  "word": "the",
+  "start": 16.02,
+  "end": 16.14,
+  "prob": 0.983
+ },
+ {
+  "word": "kitchen",
+  "start": 16.14,
+  "end": 16.42,
+  "prob": 0.999
+ },
+ {
+  "word": "now",
+  "start": 16.42,
+  "end": 17.04,
+  "prob": 0.997
+ },
+ {
+  "word": "All",
+  "start": 22.06,
+  "end": 23.12,
+  "prob": 0.069
+ },
+ {
+  "word": "right,",
+  "start": 23.12,
+  "end": 24.9,
+  "prob": 0.999
+ },
+ {
+  "word": "cross",
+  "start": 24.9,
+  "end": 25.46,
+  "prob": 0.153
+ },
+ {
+  "word": "the",
+  "start": 25.46,
+  "end": 25.74,
+  "prob": 0.333
+ },
+ {
+  "word": "fish",
+  "start": 25.74,
+  "end": 26.48,
+  "prob": 0.942
+ },
+ {
+  "word": "Slice",
+  "start": 29.12,
+  "end": 30.22,
+  "prob": 0.508
+ },
+ {
+  "word": "dish",
+  "start": 30.22,
+  "end": 30.84,
+  "prob": 0.963
+ },
+ {
+  "word": "Good",
+  "start": 31.73,
+  "end": 32.28,
+  "prob": 0.852
+ },
+ {
+  "word": "job",
+  "start": 32.28,
+  "end": 32.52,
+  "prob": 0.455
+ },
+ {
+  "word": "guys.",
+  "start": 32.52,
+  "end": 32.74,
+  "prob": 0.561
+ },
+ {
+  "word": "Yeah,",
+  "start": 32.88,
+  "end": 32.94,
+  "prob": 0.595
+ },
+ {
+  "word": "see",
+  "start": 32.96,
+  "end": 33.14,
+  "prob": 0.716
+ },
+ {
+  "word": "you",
+  "start": 33.14,
+  "end": 33.24,
+  "prob": 0.998
+ },
+ {
+  "word": "running",
+  "start": 33.24,
+  "end": 33.5,
+  "prob": 0.725
+ },
+ {
+  "word": "You",
+  "start": 34.34,
+  "end": 34.9,
+  "prob": 0.119
+ },
+ {
+  "word": "got",
+  "start": 34.9,
+  "end": 35.06,
+  "prob": 0.902
+ },
+ {
+  "word": "this",
+  "start": 35.06,
+  "end": 35.36,
+  "prob": 0.716
+ },
+ {
+  "word": "nice",
+  "start": 35.36,
+  "end": 36.3,
+  "prob": 0.18
+ },
+ {
+  "word": "nice",
+  "start": 48.18,
+  "end": 48.98,
+  "prob": 0.893
+ },
+ {
+  "word": "nice",
+  "start": 48.98,
+  "end": 49.68,
+  "prob": 0.964
+ },
+ {
+  "word": "good",
+  "start": 49.68,
+  "end": 50.6,
+  "prob": 0.767
+ },
+ {
+  "word": "good",
+  "start": 50.6,
+  "end": 51.22,
+  "prob": 0.866
+ },
+ {
+  "word": "Okay,",
+  "start": 51.82,
+  "end": 52.38,
+  "prob": 0.677
+ },
+ {
+  "word": "coming",
+  "start": 52.38,
+  "end": 52.8,
+  "prob": 0.445
+ },
+ {
+  "word": "down",
+  "start": 52.8,
+  "end": 53.08,
+  "prob": 0.996
+ },
+ {
+  "word": "and",
+  "start": 53.08,
+  "end": 53.8,
+  "prob": 0.951
+ },
+ {
+  "word": "still",
+  "start": 56.07,
+  "end": 56.29,
+  "prob": 0.125
+ },
+ {
+  "word": "shut",
+  "start": 56.29,
+  "end": 56.51,
+  "prob": 0.826
+ },
+ {
+  "word": "down.",
+  "start": 56.51,
+  "end": 56.83,
+  "prob": 0.933
+ },
+ {
+  "word": "I",
+  "start": 59.71,
+  "end": 60.27,
+  "prob": 0.944
+ },
+ {
+  "word": "think",
+  "start": 60.27,
+  "end": 60.43,
+  "prob": 0.969
+ },
+ {
+  "word": "I",
+  "start": 60.43,
+  "end": 60.55,
+  "prob": 0.865
+ },
+ {
+  "word": "blew",
+  "start": 60.55,
+  "end": 60.69,
+  "prob": 0.536
+ },
+ {
+  "word": "out",
+  "start": 60.69,
+  "end": 60.83,
+  "prob": 0.976
+ },
+ {
+  "word": "a",
+  "start": 60.83,
+  "end": 60.95,
+  "prob": 0.965
+ },
+ {
+  "word": "lot",
+  "start": 60.95,
+  "end": 61.11,
+  "prob": 0.985
+ },
+ {
+  "word": "of",
+  "start": 61.11,
+  "end": 61.23,
+  "prob": 0.995
+ },
+ {
+  "word": "stuff",
+  "start": 61.23,
+  "end": 61.37,
+  "prob": 0.997
+ },
+ {
+  "word": "there,",
+  "start": 61.37,
+  "end": 61.61,
+  "prob": 0.987
+ },
+ {
+  "word": "but",
+  "start": 61.61,
+  "end": 61.79,
+  "prob": 0.996
+ },
+ {
+  "word": "it's",
+  "start": 61.79,
+  "end": 61.87,
+  "prob": 0.925
+ },
+ {
+  "word": "okay",
+  "start": 61.87,
+  "end": 62.15,
+  "prob": 0.988
+ },
+ {
+  "word": "swing",
+  "start": 62.15,
+  "end": 62.91,
+  "prob": 0.195
+ },
+ {
+  "word": "it",
+  "start": 62.91,
+  "end": 63.03,
+  "prob": 0.937
+ },
+ {
+  "word": "around",
+  "start": 63.03,
+  "end": 63.41,
+  "prob": 0.999
+ },
+ {
+  "word": "So",
+  "start": 64.01,
+  "end": 64.51,
+  "prob": 0.264
+ },
+ {
+  "word": "the",
+  "start": 64.51,
+  "end": 64.63,
+  "prob": 0.982
+ },
+ {
+  "word": "logo",
+  "start": 64.63,
+  "end": 64.95,
+  "prob": 0.992
+ },
+ {
+  "word": "pull",
+  "start": 65.69,
+  "end": 66.25,
+  "prob": 0.387
+ },
+ {
+  "word": "out",
+  "start": 66.25,
+  "end": 66.65,
+  "prob": 0.922
+ },
+ {
+  "word": "And",
+  "start": 67.55,
+  "end": 68.11,
+  "prob": 0.619
+ },
+ {
+  "word": "call",
+  "start": 68.11,
+  "end": 68.33,
+  "prob": 0.997
+ },
+ {
+  "word": "it",
+  "start": 68.33,
+  "end": 68.43,
+  "prob": 0.999
+ },
+ {
+  "word": "a",
+  "start": 68.43,
+  "end": 68.53,
+  "prob": 0.999
+ },
+ {
+  "word": "day.",
+  "start": 68.53,
+  "end": 68.77,
+  "prob": 0.998
+ },
+ {
+  "word": "We",
+  "start": 72.0,
+  "end": 72.56,
+  "prob": 0.996
+ },
+ {
+  "word": "got",
+  "start": 72.56,
+  "end": 72.78,
+  "prob": 0.999
+ },
+ {
+  "word": "it.",
+  "start": 72.78,
+  "end": 73.14,
+  "prob": 1.0
+ },
+ {
+  "word": "Very",
+  "start": 77.1,
+  "end": 77.66,
+  "prob": 0.983
+ },
+ {
+  "word": "nice.",
+  "start": 77.66,
+  "end": 77.94,
+  "prob": 0.993
+ },
+ {
+  "word": "Good",
+  "start": 77.94,
+  "end": 78.12,
+  "prob": 0.989
+ },
+ {
+  "word": "job",
+  "start": 78.12,
+  "end": 78.26,
+  "prob": 0.995
+ },
+ {
+  "word": "guys",
+  "start": 78.26,
+  "end": 78.46,
+  "prob": 0.725
+ }
+]
