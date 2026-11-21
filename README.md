@@ -18,4 +18,7 @@ python3 scripts/captions.py projects/X/SOURCE.words.json cap.ass \
 scripts/render.sh SOURCE.mp4 312.4 341.0 out.mp4 cap.ass 0.5 30  # 1080x1920, -14 LUFS
 ```
 
-Dependencies: ffmpeg, `pip install faster-whisper`, Montserrat (`apt install fonts-montserrat`).
+Dependencies:
+- Linux: `apt install ffmpeg fonts-montserrat && pip install faster-whisper yt-dlp pillow`
+- macOS: `brew install ffmpeg yt-dlp && brew install --cask font-montserrat && pip3 install faster-whisper pillow`
+  (YouTube downloads work from a Mac; cloud servers get blocked by YouTube's bot check.)

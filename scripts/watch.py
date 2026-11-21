@@ -19,7 +19,13 @@ import argparse, json, pathlib, re, subprocess, sys, statistics
 from PIL import Image, ImageDraw, ImageFont
 
 HERE = pathlib.Path(__file__).resolve().parent
-FONT = "/usr/share/fonts/opentype/montserrat/Montserrat-Bold.otf"
+FONT = next((f for f in [
+    "/usr/share/fonts/opentype/montserrat/Montserrat-Bold.otf",          # Linux (apt fonts-montserrat)
+    str(pathlib.Path.home() / "Library/Fonts/Montserrat-Bold.ttf"),       # macOS user font
+    "/Library/Fonts/Montserrat-Bold.ttf",
+    "/System/Library/Fonts/Supplemental/Arial Bold.ttf",                 # macOS fallback
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+] if pathlib.Path(f).exists()), None)
 
 ap = argparse.ArgumentParser()
 ap.add_argument("src")
@@ -89,7 +95,7 @@ def sheet(items, path, cols=4):
     w, h = items[0][0].size; lab = 34
     rows = (len(items) + cols - 1) // cols
     S = Image.new("RGB", (cols * w, rows * (h + lab)), (18, 18, 18))
-    d = ImageDraw.Draw(S); f = ImageFont.truetype(FONT, 20)
+    d = ImageDraw.Draw(S); f = ImageFont.truetype(FONT, 20) if FONT else ImageFont.load_default()
     for i, (im, label) in enumerate(items):
         x, y = (i % cols) * w, (i // cols) * (h + lab)
         S.paste(im, (x, y + lab)); d.text((x + 8, y + 6), label, font=f, fill=(255, 220, 90))
