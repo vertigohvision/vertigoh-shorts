@@ -5,6 +5,7 @@ Short-form editing workspace for @kaivertigoh, edited by Claude.
 - `EDITING_PLAYBOOK.md`: style rules. Read it before every edit and update it after feedback.
 - `FEEDBACK_LOG.md`: one entry per short, with notes and performance.
 - `scripts/`: the pipeline. `scripts/watch.py` + `.claude/skills/watch-video/`: watch and break down any video.
+- `channel/`: channel profile (`CHANNEL.md`) + public stats snapshot (`scripts/channel_stats.py`).
 - `references/<name>/`: breakdowns of reference shorts (frames, transcript, report, breakdown.md).
 - `projects/<date>-<name>/`: transcripts, caption files, edit notes. No video in git; media
   lives on the SSD or in Drive.

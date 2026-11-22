@@ -24,6 +24,15 @@
 - **What makes Kai credible:** pro filmmaking and FPV skill, plus the willingness to build
   solutions. Every short should show one of the two. `[HYPOTHESIS]`
 
+- **Channel facts and numbers:** see `channel/CHANNEL.md` and `channel/STATS.md`.
+- **Proven engine:** every one of the 11 shorts with 1M+ views is an FPV BTS one-take of a
+  specific place or event, with a price tag or prestige, a constraint, or a crowd working
+  together. Only 2 of the latest 40 shorts use it. Bring it back while building toward
+  creative tech. `[RULE · channel data 11/22]`
+- **The reflective/advice format is the weakest** (median 5.9K, 18 of the latest 40 shorts).
+  Don't make it the main format; fold its emotion into a story with a visual payoff instead.
+  `[HYPOTHESIS · channel data 11/22]`
+
 ## 2. Technical specs
 
 | Item | Spec | Source |
@@ -208,6 +217,9 @@ BetaFPV Pavo25 · TBS Tango II · Hollyland · Red Bull · Streamer Games · Pog
 ---
 
 ## Change log
+
+- **v0.5 (2026-11-22):** Added channel profile + stats. Proven-engine rule (all 11 shorts over 1M are FPV BTS of a place/event);
+  reflective format flagged as weakest.
 
 - **v0.4 (2026-11-21):** Watched Kai's 6 YouTube shorts + Landon on Kai's Mac, and wrote
   `WINNERS_VS_FLOPS.md`. Promoted to RULE: craft in frame 1, concrete stake in line 1 + title, title =
